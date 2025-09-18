@@ -1,4 +1,8 @@
 {
   "name": "codingtest",
-  "displayName": "codingtest"
+  "displayName": "codingtest",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1875469413982562~3563606686",
+    "ios_app_id": "ca-app-pub-1875469413982562~9131875550"
+  }
 }
